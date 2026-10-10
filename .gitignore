@@ -1,0 +1,6 @@
+txscreen
+test_all
+*.o
+*.dSYM/
+.DS_Store
+ERKLAERUNG.md
